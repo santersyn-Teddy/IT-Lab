@@ -1,0 +1,32 @@
+# Host Setup
+
+## Date
+August 14, 2026
+
+## Hardware
+
+- HP EliteBook 850 G5
+- 24 GB RAM
+- 512 GB SSD
+- Windows 11
+
+## Installed Software
+
+- Git
+- VS Code
+- PowerShell 7
+- Python
+- Docker Desktop
+- Nmap
+- Wireshark
+- MailAccess
+- Sherlock
+- Holehe
+
+## Workspace
+
+C:\Lab
+
+## Notes
+
+Successfully configured development environment and OSINT tools.
